@@ -11446,6 +11446,7 @@ html {
   }
 }
 .portfolio .portfolio-item {
+  padding: 15%;
   cursor: pointer;
   position: relative;
   display: block;
