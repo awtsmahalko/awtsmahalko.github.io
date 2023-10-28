@@ -55,5 +55,23 @@
                 "login.png"
             ]
         }
+    },
+    {
+        "name": "mefa",
+        "client": "CHMSU Student",
+        "type": "web",
+        "title": "RTFAA: REAL TIME FIRE ALARM APPLICATION",
+        "description": "RTFAA: Real Time Fire Alarm Application is an application responsible for notifying residents and authorities about a Fire being detected through device with smoke sensor, heat sensor and fire detector.",
+        "technologies": ["HTML, CSS, JavaScript,"],
+        "github": "",
+        "demo": "",
+        "images": {
+            "folder": "mefa",
+            "main": "login.png",
+            "cover": "login.png",
+            "details": [
+                "login.png"
+            ]
+        }
     }
 ]
