@@ -1,0 +1,60 @@
+[
+    {
+        "name": "eTally",
+        "client": "CHMSU Student",
+        "type": "web",
+        "title": "E-Tally: Event Organizer and Scoring Tabulation",
+        "description": "A web application for event organization and scoring tabulation.",
+        "technologies": ["HTML, CSS, JavaScript"],
+        "github": "",
+        "demo": "",
+        "images": {
+            "folder": "etally",
+            "main": "login.png",
+            "cover": "login_cover.png",
+            "details": [
+                "login.png",
+                "EventPage.png",
+                "EventDetailsPage.png"
+            ]
+        }
+    },
+    {
+        "name": "atjmai",
+        "client": "NONESCOST MASTERAL",
+        "type": "web",
+        "title": "Alumni Tracker with Job Matching using AI Integration",
+        "description": "A web and mobile application for alumni tracker with Job Matching using AI Integration.",
+        "technologies": ["HTML, CSS, JavaScript, Python"],
+        "github": "",
+        "demo": "",
+        "images": {
+            "folder": "atjmai",
+            "main": "login.png",
+            "cover": "login.png",
+            "details": [
+                "login.png",
+                "login.png"
+            ]
+        }
+    },
+    {
+        "name": "cptf",
+        "client": "CPSU Student",
+        "type": "web",
+        "title": "TutorFinder: CPSU Private Tutor Finder",
+        "description": "The CPSU Private Tutor Finder is an innovative and user-friendly online platform designed to connect students at Central Philippine State University (CPSU) with qualified private tutors who can provide personalized academic support. This system aims to simplify the process of finding and booking private tutoring sessions, making it easier for students to excel in their studies and achieve their educational goals.",
+        "technologies": ["HTML, CSS, JavaScript"],
+        "github": "",
+        "demo": "",
+        "images": {
+            "folder": "cptf",
+            "main": "2_atjmai.png",
+            "cover": "2_atjmai.png",
+            "details": [
+                "2_atjmai.png",
+                "2_atjmai.png"
+            ]
+        }
+    }
+]
