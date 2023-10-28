@@ -49,11 +49,10 @@
         "demo": "",
         "images": {
             "folder": "cptf",
-            "main": "2_atjmai.png",
-            "cover": "2_atjmai.png",
+            "main": "login.png",
+            "cover": "login.png",
             "details": [
-                "2_atjmai.png",
-                "2_atjmai.png"
+                "login.png"
             ]
         }
     }
