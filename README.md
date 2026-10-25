@@ -1,6 +1,6 @@
 # Eduard Rino Q. Carton — Developer Portfolio
 
-A responsive single-page portfolio for Eduard Rino Q. Carton, a senior full-stack developer and part-time IT instructor based in Bacolod City, Philippines. Built with Vue 3, TypeScript, and Vite, and deployed with GitHub Pages.
+A responsive single-page portfolio for Eduard Rino Q. Carton, a senior full-stack developer and part-time IT instructor based in Bacolod City, Philippines. Built with Vue 3, TypeScript, and Vite, and deployed with GitHub Pages
 
 ## Features
 
